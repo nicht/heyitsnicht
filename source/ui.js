@@ -1,5 +1,4 @@
 "use strict";
-const path = require("path");
 const React = require("react");
 const { Box, Text } = require("ink");
 const SelectInput = require("ink-select-input").default;
