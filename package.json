@@ -7,7 +7,7 @@
 	"author": {
 		"name": "Rodolfo Olivieri",
 		"email": "rodolfo.olivieri3@gmail.com",
-		"url": "nichtt.com"
+		"url": "https://nichtt.io"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"
@@ -35,9 +35,7 @@
 		"ink-select-input": "^3.1.1",
 		"meow": "^5.0.0",
 		"open": "^6.3.0",
-		"react": "^16.8.6",
-		"term-img": "^4.1.0",
-		"terminal-image": "^0.2.0"
+		"react": "^16.8.6"
 	},
 	"devDependencies": {
 		"ava": "^1.4.1",

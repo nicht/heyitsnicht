@@ -27,46 +27,32 @@ const createItems = items => {
 
 const items = createItems([
 	{
-		label: "Website",
-		url: "https://sindresorhus.com"
+		label: "Site",
+		url: "https://nichtt.io"
 	},
 	{
 		label: "Twitter",
-		url: "https://twitter.com/sindresorhus"
+		url: "https://twitter.com/nichtthat"
 	},
 	{
 		label: "GitHub",
-		url: "https://github.com/sindresorhus"
+		url: "https://github.com/nicht"
+	},
+	{
+		label: "GitLab",
+		url: "https://gitlab.com/nicht"
 	},
 	{
 		label: "Blog",
-		url: "https://blog.sindresorhus.com"
+		url: "https://blog.nichtt.io"
 	},
 	{
-		label: "Ask Me Anything",
-		url: "https://github.com/sindresorhus/ama"
+		label: "Me manda uma mensagem!",
+		url: "https://nichtt.io/contact"
 	},
 	{
-		label: "Contact",
-		url: "https://sindresorhus.com/contact"
-	},
-	{
-		label: "Support my open source work",
-		url: "https://www.patreon.com/sindresorhus"
-	},
-	{
-		label: "Unicorns!",
-		async action() {
-			console.log(
-				await terminalImage.file(path.join(__dirname, "unicorn1.gif"))
-			);
-			console.log(
-				await terminalImage.file(path.join(__dirname, "unicorn2.gif"))
-			);
-			console.log(
-				await terminalImage.file(path.join(__dirname, "unicorn3.gif"))
-			);
-		}
+		label: "Currículo",
+		url: "https://nichtt.io/cv"
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
