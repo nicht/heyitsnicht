@@ -1,18 +1,12 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
-
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
-
-<img src="screenshot.png" width="752">
-
+> The [nicht](https://nichtt.io) CLI
 
 ## Usage
 
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx heyitsnicht
 ```
-
 
 ## Built with
 
@@ -23,3 +17,10 @@ $ npx sindresorhus
 ## License
 
 MIT © [Sindre Sorhus](https://sindresorhus.com)
+
+
+## Thanks to this awesome guy <3
+
+A big thanks to Sindre Sorhus for making this project, i just forked and edited with my information <3
+
+Definetilly checkout his [Github](https://github.com/sindresorhus)
