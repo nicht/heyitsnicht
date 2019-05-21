@@ -1,13 +1,13 @@
 {
-	"name": "sindresorhus",
+	"name": "heyitsnicht",
 	"version": "2.1.0",
-	"description": "The Sindre Sorhus CLI",
+	"description": "A CLI app inspired from https://github.com/sindresorhus/sindresorhus",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "nicht/heyitsnicht",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Rodolfo Olivieri",
+		"email": "rodolfo.olivieri3@gmail.com",
+		"url": "nichtt.com"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"
@@ -30,6 +30,8 @@
 	"dependencies": {
 		"import-jsx": "^2.0.0",
 		"ink": "^2.1.1",
+		"ink-big-text": "^1.0.1",
+		"ink-gradient": "^1.0.0",
 		"ink-select-input": "^3.1.1",
 		"meow": "^5.0.0",
 		"open": "^6.3.0",
