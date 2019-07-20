@@ -1,13 +1,13 @@
 {
 	"name": "heyitsnicht",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "A CLI app inspired from https://github.com/sindresorhus/sindresorhus",
 	"license": "MIT",
 	"repository": "nicht/heyitsnicht",
 	"author": {
 		"name": "Rodolfo Olivieri",
-		"email": "rodolfo.olivieri3@gmail.com",
-		"url": "https://nichtt.io"
+		"email": "rodolfo.olivieri@nicht.rocks",
+		"url": "https://nicht.rocks"
 	},
 	"bin": {
 		"sindresorhus": "source/cli.js"

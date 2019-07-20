@@ -27,7 +27,7 @@ const createItems = items => {
 const items = createItems([
 	{
 		label: "Site",
-		url: "https://nichtt.io"
+		url: "https://nicht.rocks"
 	},
 	{
 		label: "Twitter",
@@ -43,22 +43,21 @@ const items = createItems([
 	},
 	{
 		label: "Blog",
-		url: "https://blog.nichtt.io"
+		url: "https://nicht.rocks/blog"
 	},
 	{
 		label: "Me manda uma mensagem!",
-		url: "https://nichtt.io/contact"
+		url: "https://nicht.rocks/contact"
 	},
 	{
 		label: "Currículo",
-		url: "https://nichtt.io/cv"
+		url: "https://nicht.rocks/resume"
 	},
-	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
 		label: "---------"
 	},
 	{
-		label: "Quit",
+		label: "Sair",
 		action() {
 			process.exit(); // eslint-disable-line unicorn/no-process-exit
 		}
@@ -72,7 +71,7 @@ module.exports = () => (
 		</Gradient>
 		<Box marginBottom={1}>
 			<Text>
-				Meu nome é Rodolfo Olivieri e sou Desenvolvedor FullStack (NodeJS e PHP)
+				Meu nome é Rodolfo Olivieri e sou FullStack Developer / DevOps
 			</Text>
 		</Box>
 		<SelectInput items={items} onSelect={handleSelect} />
